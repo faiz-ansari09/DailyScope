@@ -15,7 +15,5 @@
       "dest": "/index.html"
     }
   ],
-  "env": {
-    "REACT_APP_NEWS_API": "c2761abcc1c146c69326c5a5403f70ea"
-  }
+  "env": {}
 }
