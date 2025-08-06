@@ -15,7 +15,7 @@
 - React (via Create React App)
 - NewsAPI (REST API)
 - Axios or Fetch for API requests
-- CSS Modules or styled-components (optional)
+- CSS Modules or styled-components
 - React Router (for routing between categories)
 
 ## 🔧 Installation
