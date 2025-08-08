@@ -68,4 +68,6 @@ DailyScope
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/faiz-ansari09/DailyScope/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/faiz-ansari09/DailyScope/blob/master/LICENSE)
+
+---
