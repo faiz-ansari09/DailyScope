@@ -6,11 +6,11 @@
 
 ## 🚀 Features
 
-- 🔍 Browse top headlines by category or country
-- 📰 Real-time news updates
-- 🌐 Source filtering
-- 🎨 Responsive and modern UI
-- ⚡ Fast and lightweight
+- 🔍 Browse top headlines by category or country.
+- 📰 Real-time news updates.
+- 🌐 Source filtering.
+- 🎨 Responsive and modern UI.
+- ⚡ Fast and lightweight.
 
 ---
 
